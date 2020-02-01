@@ -14,16 +14,16 @@
 |Aldrabão | Mentiroso| |
 |Alforreca | Água Viva| |
 |Aloquete | Cadeado | |
-|Altamente | está na moda | |
+|Altamente | Está na moda / Muito legal | |
 |Aluguer | Aluguel| |
 |Andebol | Handebol | |
-|Ao pé de | perto / junto de...| |
+|Ao pé de | Perto / Junto de...| |
 |Apelido | Sobrenome | |
-|Armazém | depósito (estoque de loja) | |
+|Armazém | Depósito (estoque de loja) | |
 |Arrecadação | Depósito residencial | |
 |Arrendar | Alugar | |
-|Assento | certidão de nascimento, casamento, óbito... | (pouco usado no dia-a-dia, normalmente chama-se certidão )|
-|Assoalhadas | número dos quartos + sala | (ex: 4 assoalhadas = 3 quartos + sala)|
+|Assento | Certidão de Nascimento, Casamento, Óbito... | (pouco usado no dia-a-dia, normalmente chama-se certidão )|
+|Assoalhadas | Número dos Quartos + Sala | (ex: 4 assoalhadas = 3 quartos + sala)|
 |Atacadores | Cadarços de tênis, sapatos| |
 |Auscultadores | Fones de Ouvido | |
 |Autocarro | Ônibus| |
@@ -42,12 +42,11 @@
 |Biberão | Mamadeira| |
 |Bicha | Fila | |
 |Bifana | Bife de porco no pão | |
-|Prego | Bife de vaca no pão | |
 |Bilhete de Identidade | Carteira de Identidade| |
 |Blusão | Jaqueta| |
 |Bolacha | Biscoito | |
 |Boleia | Carona| |
-|BOX | garagem com porta | (fecha o carro dentro) |
+|BOX | Garagem com Porta | (fecha o carro dentro) |
 |Boxers | Cuecas| |
 |Brigada de trânsito | Polícia Rodoviária | |
 |Brócolos | Brócolis | |
@@ -80,15 +79,15 @@
 |Castanho | Marrom| |
 |Cave | Subsolo ou porão  | |
 |Cêntimos | os certíssimos do euro | |
-|Chapéu de chuva | guarda chuva | |
-|Chatear | encher o saco | |
+|Chapéu de chuva | Guarda Chuva | |
+|Chatear | Encher o Saco | |
 |Chávena | Xícara| |
 |Chula | determinada música e dança popular| |
 |Chupa / Chupa-Chupa | Pirulito | |
-|Circunvalação | estrada em volta de uma cidade| |
+|Circunvalação | Estrada em volta de uma cidade| |
 |Claque | Torcida| |
-|Claras em castelo | claras em neve| |
-|Clarificar | esclarecer| |
+|Claras em castelo | Claras em neve| |
+|Clarificar | Esclarecer| |
 |Cobarde | Covarde | |
 |Coima | Multa | |
 |Comboio | Trem| |
@@ -100,8 +99,8 @@
 |Constipação | Resfriado| |
 |Constipado | Resfriado | |
 |Contentor | Contêiner| |
-|Contrafazer | falsificar| |
-|Contrafeito | falsificado | |
+|Contrafazer | Falsificar| |
+|Contrafeito | Falsificado | |
 |Contributo | Contribuição | |
 |Coser | Costurar | |
 |Cota | Velha | |
@@ -109,7 +108,7 @@
 |Cu | Bunda | |
 |Cuecas | Calcinha /cueca (feminino e masculino)| |
 |Défice | Déficit | |
-|Deitar fora | jogar fora | |
+|Deitar fora | Jogar fora | |
 |Dentífrico | Pasta de Dentes | (Pasta de dentes é mais usado no dia-a-dia)|
 |Depósito de Gasolina | Tanque de combustível| |
 |Descapotável | Conversível| |
@@ -120,7 +119,7 @@
 |Durex | Preservativo | |
 |Ecrã | Tela | |
 |Eléctrico | Bonde| |
-|Em directo | ao vivo | |
+|Em directo | Ao vivo | |
 |Ementa | Cardápio| |
 |Encarnado | Vermelho | (Vermelho ou Encarnado é usado igualmente)|
 |Encher o saco | Juntar dinheiro | |
@@ -203,7 +202,7 @@
 |Papaia | Mamão| |
 |Papo seco / Carcaça | Pão| |
 |Paragem | Ponto de ônibus| |
-|Parqueamento | vaga de garagem | |
+|Parqueamento | Vaga de Garagem | |
 |Parvo | Idiota| |
 |Passadeira | Faixa de Pedestres| |
 |Passeio | Calçada | |
@@ -220,7 +219,7 @@
 |Perceber | Entender| |
 |Pestana | Cílios | |
 |Pica | injeção | |
-|Pica no cu | injeção na bunda | |
+|Pica no cu | Injeção na bunda | |
 |Pimba | Brega | |
 |Pimenta | Pimenta do Reino | |
 |Piri-piri | Pimenta Vermelha | |
@@ -230,7 +229,7 @@
 |Pontapé de Canto | Escanteio| |
 |Ponto de Liga | Ponto de Tricô | |
 |Porra | Coisa imprestável | |
-|Porreiro | muito legal | |
+|Porreiro | Muito legal | |
 |Portagem | Pedágio| |
 |Portátil | Notebook| |
 |Prego | Sanduíche de Filé | |
@@ -240,7 +239,7 @@
 |Província | Estado | |
 |Punheta de Bacalhau| Prato típico português feito com bacalhau cru desfiado | |
 |Punheta| Punheta | |
-|Puto | criança | |
+|Puto | Criança | |
 |Quinta | Fazenda /sítio| |
 |Rabo | Bumbum | |
 |Rameira | Prostituta | |
@@ -251,7 +250,7 @@
 |Registo | Registro | |
 |Relva | Grama| |
 |Relvado | Gramado| |
-|Remodelado | reformado | |
+|Remodelado | Reformado | |
 |Renda | Valor mensal do Aluguel | |
 |Rés-do-chão | Térreo| |
 |Ribeira | Beira do Rio | (apenas na cidade do Porto) |
@@ -271,7 +270,7 @@
 |Sítio | Lugar | |
 |Sumo | Suco| |
 |T-shirt | Camiseta| |
-|T0 | kitnet| |
+|T0 | Kitnet| |
 |T1 | 1 quarto | |
 |T2 | 2 quartos | |
 |T3 | 3 quartos | |
